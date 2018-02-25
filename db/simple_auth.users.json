@@ -1,0 +1,5 @@
+{ "_id" : { "$oid" : "59fef7ec0c3b620d7404e673" }, "name" : "Diako", "username" : "syronz", "password" : "1234567890", "__v" : 0 }
+{ "_id" : { "$oid" : "59ff1b59c473842f143ca667" }, "name" : "Diako", "username" : "syronz2", "password" : "98a11be74eb80f49a191389fb1938140f48c53c147339c31a40266bf3074aef0", "__v" : 0 }
+{ "_id" : { "$oid" : "59ff1c20c473842f143ca668" }, "name" : "Dia", "username" : "a", "password" : "f7cff5228d38174596719efab5917883fe794ba19b15649d4ee21abd59a00877", "__v" : 0 }
+{ "_id" : { "$oid" : "59ff677c7917c1147c75cbd1" }, "name" : "diako", "username" : "ako", "password" : "26ffd7603a7e7c82d7ab80ddfb32e660826ed0cdc424f1154e2b0a150aeeb282", "__v" : 0 }
+{ "_id" : { "$oid" : "59ff7334c6866511f8858de2" }, "name" : "diako", "username" : "ako2", "password" : "26ffd7603a7e7c82d7ab80ddfb32e660826ed0cdc424f1154e2b0a150aeeb282", "__v" : 0 }
